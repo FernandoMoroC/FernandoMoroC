@@ -30,7 +30,7 @@ Phd in biology, focuse on data science , transforming data from different source
     LinkedIn
   </a>
 
-  <a href="mailto:fernandomorocordobes@gmail.com" style="
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fernandomorocordobes@gmail.com" target="_blank" style="
     display: inline-block;
     background-color: #d93025;
     color: white;
