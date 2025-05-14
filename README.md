@@ -1,8 +1,18 @@
 ## Hi there 👋
 
-<!--
-**FernandoMoroC/FernandoMoroC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Languages and tools:
 
+<img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Rlogo.png" alt="Rlogo" width="50"/>
+<img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Python-logo.png" alt="Python" width="50"/>
+<img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Linux_mascot_tux.png" alt="Linux" width="50"/>
+<img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Power-BI-logo-300x79%20(1).png" alt="Powerbi" width="50"/>
+<img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Knime-logo.png" alt="Knime" width="50"/>
+<img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Oracle_redlogo.jpg" alt="Oracle" width="50"/>
+
+
+
+
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
