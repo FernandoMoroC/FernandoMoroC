@@ -9,9 +9,9 @@ Phd in biology, focuse on data science , transforming data from different source
   <img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Rlogo.png" alt="R" width="40" style="margin-right:10px;"/>
   <img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Python-logo.png" alt="Python" width="40" style="margin-right:10px;"/>
   <img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Linux_mascot_tux.png" alt="Linux" width="35" style="margin-right:10px;"/>
-  <img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Power-BI-logo-300x79%20(1).png" alt="Power BI" width="60" style="margin-right:10px;"/>
   <img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Knime-logo.png" alt="Knime" width="50" style="margin-right:10px;"/>
   <img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Oracle_redlogo.jpg" alt="Oracle" width="50"/>
+  <img src="https://github.com/FernandoMoroC/FernandoMoroC/blob/main/Power-BI-logo-300x79%20(1).png" alt="Power BI" width="60" style="margin-right:10px;"/>
 </p>
 
 <h3>📫 How to reach me:</h3>
