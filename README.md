@@ -1,6 +1,6 @@
 ## 👋 Hi there, I am Fernando
 
-Phd in biology, focuse on data science , transforming data from different sources into high-quality information and innovations
+PhD in biology, focus on data science, transforming data from different sources into high-quality information and innovations
 
 
 <h3>🛠️ Languages and Tools:</h3>
